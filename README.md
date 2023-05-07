@@ -1,4 +1,4 @@
-# Machine Learning Projetcts:
+# Machine Learning Projects:
 This repository contains a wide range of labs covering various machine learning topics. 
 Through these labs, I have been able to deepen my understanding and implementation of different concepts in machine learning.
 Each lab has been thoughtfully designed to provide hands-on experience with different machine learning techniques.
